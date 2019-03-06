@@ -1840,7 +1840,7 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-google-plus {
-					background-color: #DA2713;
+					background-color: rgb(96, 132, 231);
 				}
 
 				ul.social li a.fa-github {
@@ -1848,7 +1848,7 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-rss {
-					background-color: #F2600B;
+					background-color: rgb(22, 19, 71);
 				}
 
 				ul.social li a.fa-instagram {
@@ -1864,15 +1864,15 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-soundcloud {
-					background-color: #FE5419;
+					background-color: rgb(59, 48, 156);
 				}
 
 				ul.social li a.fa-youtube {
-					background-color: #BF2E25;
+					background-color: rgb(100, 95, 145);
 				}
 
 				ul.social li a.fa-blogger {
-					background-color: #FF6501;
+					background-color: rgb(153, 160, 250);
 				}
 
 				ul.social li a.fa-flickr {
